@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository.git
+git clone (https://github.com/Vetrix42/finalCapstone)
 Navigate to the project directory:
 
 arduino
@@ -24,7 +24,7 @@ cd Task-Manager-System
 Open the terminal or command prompt and run the program:
 
 Copy code
-python task_manager.py
+python task_manager 3.py
 Usage
 Once you have launched the Task Manager System, follow these instructions to utilize its functionalities:
 
